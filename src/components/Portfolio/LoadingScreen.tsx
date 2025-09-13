@@ -39,7 +39,7 @@ export const LoadingScreen = ({ onComplete }: { onComplete: () => void }) => {
         </h2>
         
         <p className="text-lg text-muted-foreground mb-8 animate-slide-in-right">
-          Frontend Developer Portfolio
+          Frontend Developer
         </p>
         
         <div className="w-80 h-3 bg-muted/30 rounded-full mx-auto mb-4 overflow-hidden">
